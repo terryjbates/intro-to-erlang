@@ -1,0 +1,9 @@
+erl
+
+li<tab>   # all functions suggested
+
+q()
+
+CTRL-g
+h
+q()
