@@ -7,3 +7,10 @@ q()
 CTRL-g
 h
 q()
+
+
+demo:launch().   # register the alias
+
+echo ! {self(),hello}.
+
+{<0.32.0>,heloo}
